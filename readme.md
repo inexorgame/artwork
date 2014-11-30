@@ -1,5 +1,3 @@
-# Sauerbomber Data Files
+# Inexor Art Files
 
-This repository contains all the data files for the Sauerbomber projects. It can be automatically checked out via Sauerbomber's build system.
-
-See https://github.com/mobius-tempname/sauerbomber-code
+This repository contains artistic files for the Inexor project. Stuff that does not need to be in any kind of release.
