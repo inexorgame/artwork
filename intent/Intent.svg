@@ -15,7 +15,10 @@
    version="1.1"
    id="svg4974"
    inkscape:version="0.92.1 r15371"
-   sodipodi:docname="Intent_.svg">
+   sodipodi:docname="Intent.svg"
+   inkscape:export-filename="G:\Inexor\artwork\intent\Intent_rendered_512px.png"
+   inkscape:export-xdpi="172.42"
+   inkscape:export-ydpi="172.42">
   <defs
      id="defs4968" />
   <sodipodi:namedview
@@ -25,9 +28,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.35"
-     inkscape:cx="-10.317762"
-     inkscape:cy="370.68645"
+     inkscape:zoom="2.8"
+     inkscape:cx="142.96517"
+     inkscape:cy="12.163187"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      showgrid="false"
@@ -48,7 +51,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
